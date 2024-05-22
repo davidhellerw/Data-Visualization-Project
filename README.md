@@ -19,4 +19,4 @@ PROJECT REQUIREMENTS --
 use Tableau Desktop to create appropriate visualizations to explore the data and extract insights
 summarize and present findings/conclusions clearly and convincingly
 
-Project Presentation link: https://fiudit-my.sharepoint.com/:v:/g/personal/dhell006_fiu_edu/EVrGUaWmYtpMnwItSm5yKKAB5Y8BLVcUBy0oWACb5rfJ7A?e=zQgiD7
+Recorded presentation: https://fiudit-my.sharepoint.com/:v:/g/personal/dhell006_fiu_edu/EVrGUaWmYtpMnwItSm5yKKAB5Y8BLVcUBy0oWACb5rfJ7A?e=zQgiD7
